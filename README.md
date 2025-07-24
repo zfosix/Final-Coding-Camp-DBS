@@ -91,7 +91,7 @@ npm run dev
 Akses dashboard di: http://localhost:3000
 
 ## 👥 Tim Proyek
-- Fajar Fauzian – Fullstack Developer
+- Fajar Fauzian – Fullstack Developer (Lead)
 - Muhammad Yazid Wiliadi - Frontend Developer
 - Albi Ariza Syafiq - Fullstack Developer
 - Dinda Mei Sabela - Frontend Developer
